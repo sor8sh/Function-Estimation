@@ -1,6 +1,6 @@
 # Function Estimation with MLP and RBF
 
-> This repository is made for the AI course project - Mar 2018.
+> This repository is made for the Computational Intelligence course project - Mar 2018.
 
 **Dependencies:**
 - [scikit-learn](https://scikit-learn.org/stable/)
