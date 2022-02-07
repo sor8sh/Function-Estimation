@@ -9,7 +9,7 @@
 
 ---
 
-Two machine learning models to estimate function `y = x^2`.
+Two machine learning models (**Multi-layer perceptron** and **radial basis function network**) to estimate a polynomial function (`y = x^2`).
 
 #### MLP:
 - Using `MLPRegressor` from scikit-learn
